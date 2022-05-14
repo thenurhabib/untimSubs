@@ -25,7 +25,7 @@
 
 <hr>
 
-### untimSubs use multiple subdomain enemeration tools and find all subdomains and save it in particularly text files.
+##### untimSubs use multiple subdomain enumeration tools and find all subdomains and save it in particularly text files.
 
 <br>
 
