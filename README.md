@@ -29,11 +29,6 @@
 
 <br>
 
-### Main Features
-- Web Crawler
-- Scan Spring4Shell RCE
-
-<br>
 
 ### Documentation
 ### install
