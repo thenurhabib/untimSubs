@@ -32,9 +32,11 @@
 
 ### Documentation
 ### install
-```yaml
+```bash
 git clone https://github.com/thenurhabib/untimsubs.git
 cd untimsubs
+chmod +x install.sh
+./install.sh
 ```
 <br>
 
